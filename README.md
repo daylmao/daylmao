@@ -1,5 +1,4 @@
-# 🐱‍👤 About Me: <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Increasing%20my%20learning&center=true&width=500&height=50"></a>
-
+# 🐱‍👤 About Me:
 Hi 👋, I'm Dayron, a passionate backend developer from the Dominican Republic. I'm constantly learning and evolving in the world of software development, always eager to improve my skills and tackle new challenges.
 
 
