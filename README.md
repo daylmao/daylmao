@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Dayron, a passionate backend developer from the Dominican Republic. I'm constantly learning and evolving in the world of software development, always eager to improve my skills and tackle new challenges.<br><br>Feel free to adjust it as needed!
+# 🐱‍👤 About Me:
+Hi 👋, I'm Dayron, a passionate backend developer from the Dominican Republic. I'm constantly learning and evolving in the world of software development, always eager to improve my skills and tackle new challenges.
 
 
 # 💻 Tech Stack:
