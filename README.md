@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;C%23+Lover;Building+Reliable+Software&center=true&width=600&height=60" alt="Typing SVG"/>
 </p>
 
----
+
 
 ## 🔹 About Me
 
@@ -18,7 +18,7 @@
 *"Every line of code is a step forward in learning."*
 </blockquote>
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,tailwind,html,css,redis,docker,angular,postgres" alt="Skills" />
 </p>
 
----
+
 
 
 
@@ -41,8 +41,6 @@
 
 </p>
 
----
-
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -51,7 +49,7 @@
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=daylmao&theme=radical" alt="Streak Stats"/>
 </div>
 
----
+
 
 ## 💡 Fun Facts
 
