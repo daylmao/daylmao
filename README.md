@@ -15,7 +15,7 @@
 </p>
 
 <blockquote align="center">
-*"Every line of code is a step forward in learning."*
+"Every line of code is a step forward in learning."
 </blockquote>
 
 
